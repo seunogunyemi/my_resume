@@ -1,0 +1,96 @@
+body {
+		background-image: url("https://media.istockphoto.com/photos/vintage-retro-grungy-background-design-and-pattern-texture-picture-id656453072?k=6&m=656453072&s=612x612&w=0&h=4TW6UwMWJrHwF4SiNBwCZfZNJ1jVvkwgz3agbGBihyE=");
+		width: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		
+}
+
+.container{
+				background-color: #fff;
+				width: 80%;
+				height: 80%;
+				border: 1px solid #ddd;
+				border-radius: 4px;
+				margin-left: auto;
+				margin-right: auto;
+				display: block;
+}
+
+.content-left{
+
+}
+.container{
+				text-align: center;
+}
+.myself{
+			width: 30%;
+			height: auto;
+			border-radius: 5px;
+			border: 1px solid #ddd;
+			transform: rotate(270deg);
+			margin-top: 50px;
+			margin-right: auto;
+			margin-left: auto;
+			position: relative;
+}
+
+table{
+			width: 100%;
+}
+
+h1 	{
+		padding-top: 18px;
+}
+
+a 	{
+		text-decoration: none;
+		color: black;
+}
+
+.skills {
+			background-color: #fff;
+}
+
+.skills :hover{
+					background-color: #ddd;
+}
+
+th 	{
+			font-size: 25px;
+			padding-top: 50px;
+			color: purple;
+}
+
+
+.box{
+		display: block;
+		margin: auto;
+		width: 500px;
+		border: 1px solid #ddd;
+		border-radius: 2px;
+		height: 25px;
+		text-align: center;
+}
+
+.message{
+			display: block;
+			margin: auto;
+			width: 500px;
+			border: 1px solid #ddd;
+			border-radius: 4px;
+			height: 500px;
+}
+
+.Submit{
+			width: 70px;
+			height: 30px;
+			background-color: #ddd;
+			border-radius: 2px;
+			color: auto;
+			margin-top: 8px;
+
+}
+i 	:hover{
+				color: blue;
+}
